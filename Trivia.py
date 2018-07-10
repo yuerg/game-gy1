@@ -124,6 +124,7 @@ red = 255, 0, 0
 
 
 trivia = Trivia('question')
+pygame.key.set_repeat()
 
 
 
